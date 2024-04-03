@@ -5,7 +5,7 @@
 - <b> Microsoft Defender Projects(AlgoExpert)</b>
   - Introduction to Microsoft Defender
   - [Data Loss Prevention Using Microsoft Defender Lab](https://github.com/AwadShaikh/Microsoft-Defender-Labs)
-  - [Attack Simulation using Microsoft Defender](https://github.com/AwadShaikh/Microsoft-Defender-Labs)
+  - [Attack Simulation using Microsoft Defender](https://github.com/AwadShaikh/Attack-Simulation-)
   - MDM EndPoint Management using Microsoft Defender Lab
   - Microsoft Defender for Cloud APPs Lab
   - Microsoft XDR Lab
