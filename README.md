@@ -6,7 +6,7 @@
   - Introduction to Microsoft Defender
   - [Data Loss Prevention Using Microsoft Defender Lab](https://github.com/AwadShaikh/Microsoft-Defender-Labs)
   - [Attack Simulation using Microsoft Defender](https://github.com/AwadShaikh/Attack-Simulation-)
-  - [Password Management and Log Auditing using Microsoft Intra ID](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
+  - [Mitigating risks using Microsoft Entra ID](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
   - Microsoft Defender for Cloud APPs Lab
   - Microsoft XDR Lab
   - Microsoft IntraId LAb
