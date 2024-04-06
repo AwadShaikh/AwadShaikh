@@ -8,7 +8,7 @@
   - [Attack Simulation using Microsoft Defender](https://github.com/AwadShaikh/Attack-Simulation-)
   - [Mitigating risks using Microsoft Entra ID](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
   - [Security Posture Improvement using Microsoft XDR Lab](https://github.com/AwadShaikh/Security-Posture-Improvement-Lab)
-  - Microsoft XDR Lab
+  - [Microsoft Defender for cloud] 
   - Microsoft IntraId LAb
 
 - <b> Splunk Porjects (AlgoExpert)</b>
