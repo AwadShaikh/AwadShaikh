@@ -7,7 +7,7 @@
   - [Data Loss Prevention Using Microsoft Defender Lab](https://github.com/AwadShaikh/Microsoft-Defender-Labs)
   - [Attack Simulation using Microsoft Defender](https://github.com/AwadShaikh/Attack-Simulation-)
   - [Mitigating risks using Microsoft Entra ID](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
-  - Microsoft Defender for Cloud APPs Lab
+  - Security Posture Improvement using Microsoft XDR Lab
   - Microsoft XDR Lab
   - Microsoft IntraId LAb
 
