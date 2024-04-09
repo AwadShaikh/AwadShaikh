@@ -6,10 +6,10 @@
   - Introduction to Microsoft Defender
   - [Data Loss Prevention Using Microsoft Defender Lab](https://github.com/AwadShaikh/Microsoft-Defender-Labs)
   - [Attack Simulation using Microsoft Defender](https://github.com/AwadShaikh/Attack-Simulation-)
-  - [Mitigating risks using Microsoft Entra ID](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
+  - [Mitigating risks using Microsoft Entra Id](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
   - [Security Posture Improvement using Microsoft XDR Lab](https://github.com/AwadShaikh/Security-Posture-Improvement-Lab)
   - [Microsoft Defender for cloud Apps](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
-  - Microsoft IntraId LAb
+  - [Microsoft Azure Active Directory (Entra Id)](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
 
 - <b> Splunk Porjects (AlgoExpert)</b>
   - Introduction to Microsoft Defender
