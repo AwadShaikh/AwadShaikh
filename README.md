@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> Microsoft Defender Projects(AlgoExpert)</b>
-  - [Windows 10 system restore point Lab](https://github.com/AwadShaikh/Microsoft-Defender-Labs)
+  - [Data Loss Prevention Using Microsoft Defender Lab](https://github.com/AwadShaikh/Microsoft-Defender-Labs)
   - [Attack Simulation using Microsoft Defender](https://github.com/AwadShaikh/Attack-Simulation-)
   - [Mitigating risks using Microsoft Entra Id](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
   - [Security Posture Improvement using Microsoft XDR Lab](https://github.com/AwadShaikh/Security-Posture-Improvement-Lab)
