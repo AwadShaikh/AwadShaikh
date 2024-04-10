@@ -10,16 +10,14 @@
   - [Microsoft Defender for cloud Apps](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
   - [Microsoft Azure Active Directory (Entra Id)](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
 
-- <h2> Windows 10 Labs </h2>
 
-  - Introduction to Microsoft Defender
+  <b> Windows 10 Labs </b>
   - [Windows 10 System Restore Point Lab](https://github.com/AwadShaikh/Microsoft-10-System-restore-point-)
   - [Attack Simulation using Microsoft Defender](https://github.com/AwadShaikh/Attack-Simulation-)
   - [Mitigating risks using Microsoft Entra Id](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
   - [Security Posture Improvement using Microsoft XDR Lab](https://github.com/AwadShaikh/Security-Posture-Improvement-Lab)
   - [Microsoft Defender for cloud Apps](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
   - [Microsoft Azure Active Directory (Entra Id)](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
-
   -   
 <h2>📺 Popular YouTube Videos</h2>
 
