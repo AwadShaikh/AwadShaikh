@@ -3,6 +3,14 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> Microsoft Defender Projects(AlgoExpert)</b>
+  - [Windows 10 system restore point Lab](https://github.com/AwadShaikh/Microsoft-Defender-Labs)
+  - [Attack Simulation using Microsoft Defender](https://github.com/AwadShaikh/Attack-Simulation-)
+  - [Mitigating risks using Microsoft Entra Id](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
+  - [Security Posture Improvement using Microsoft XDR Lab](https://github.com/AwadShaikh/Security-Posture-Improvement-Lab)
+  - [Microsoft Defender for cloud Apps](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
+  - [Microsoft Azure Active Directory (Entra Id)](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
+
+- <b> Windows 10 Labs </b>
   - Introduction to Microsoft Defender
   - [Data Loss Prevention Using Microsoft Defender Lab](https://github.com/AwadShaikh/Microsoft-Defender-Labs)
   - [Attack Simulation using Microsoft Defender](https://github.com/AwadShaikh/Attack-Simulation-)
@@ -11,14 +19,6 @@
   - [Microsoft Defender for cloud Apps](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
   - [Microsoft Azure Active Directory (Entra Id)](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
 
-- <b> Splunk Porjects (AlgoExpert)</b>
-  - Introduction to Microsoft Defender
-  - Data Loss Prevention Using Microsoft Defender Lab
-  - Managing Insider Risks using Microsoft Defender Lab
-  - MDM EndPoint Management using Microsoft Defender Lab
-  - Microsoft Defender for Cloud APPs Lab
-  - Microsoft XDR Lab
-  - Microsoft IntraId LAb 
   -   
 <h2>📺 Popular YouTube Videos</h2>
 
