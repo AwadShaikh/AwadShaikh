@@ -16,7 +16,7 @@
 
 
   <b> Windows 10 Labs </b>
-  - [Creating bootable USB Media for Windows 10 ](-)
+  - [Creating bootable USB Media for Windows 10 ](https://github.com/AwadShaikh/Bootable-USB-media-)
   - [Windows 10 System Restore Point Lab](https://github.com/AwadShaikh/Microsoft-10-System-restore-point-)
   - [Investigating system's reliability using windows reliability monitoring tool](https://github.com/AwadShaikh/Reliability-monitoring/edit/main/README.md)
   - [Investigating system's errors, logs and warnings using windows event viewer tool ](https://github.com/AwadShaikh/Event-viewer-tool-lab/edit/main/README.md)
