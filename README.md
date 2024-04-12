@@ -22,8 +22,8 @@
   - [Investigating system's errors, logs and warnings using windows event viewer tool ](https://github.com/AwadShaikh/Event-viewer-tool-lab/edit/main/README.md)
   - [Troubleshooting using Microsoft support and recovery assistance](https://github.com/AwadShaikh/Microsoft-support-and-recovery-assistance/edit/main/README.md) 
   - [Troubleshooting using CRC(Component repair tool) ](https://github.com/AwadShaikh/Defender-for-cloud-lab)
-  - [Repair Non Bootable Computer Using The System File Checker SFC](https://github.com/AwadShaikh/Defender-for-cloud-lab)
-  - [Repair a Non Bootable Computer - Corrupted BCD ](https://github.com/AwadShaikh/Defender-for-cloud-lab)
+  - [Repairing a Non Bootable Computer Using The System File Checker SFC](https://github.com/AwadShaikh/SFC-lab/blob/main/README.md)
+  - [Repairing a Non Bootable Computer - Corrupted BCD ](https://github.com/AwadShaikh/Defender-for-cloud-lab)
   -   
 <h2>📺 Popular YouTube Videos</h2>
 
