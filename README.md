@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Awad! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<img src="https://imgur.com/Vi6p1Dz.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Vi6p1Dz.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 
 <h2>👨‍💻 Cyber Security Projects: </h2>
