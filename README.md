@@ -17,7 +17,7 @@
   - [Investigating system's reliability using windows reliability monitoring tool](https://github.com/AwadShaikh/Reliability-monitoring/edit/main/README.md)
   - [Investigating system's errors, logs and warnings using windows event viewer tool ](https://github.com/AwadShaikh/Event-viewer-tool-lab/edit/main/README.md)
   - [Troubleshooting using Microsoft support and recovery assistance](https://github.com/AwadShaikh/Microsoft-support-and-recovery-assistance/edit/main/README.md) 
-  - [Microsoft Azure Active Directory (Entra Id)](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
+  - [Troubleshooting using CRC(Component repair tool) ](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
   -   
 <h2>📺 Popular YouTube Videos</h2>
 
