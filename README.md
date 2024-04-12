@@ -14,7 +14,7 @@
   <b> Windows 10 Labs </b>
   - [Creating bootable USB Media for Windows 10 ](-)
   - [Windows 10 System Restore Point Lab](https://github.com/AwadShaikh/Microsoft-10-System-restore-point-)
-  - [Mitigating risks using Microsoft Entra Id](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
+  - [investigating system using windows reliability monitor feature](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
   - [Security Posture Improvement using Microsoft XDR Lab](https://github.com/AwadShaikh/Security-Posture-Improvement-Lab)
   - [Microsoft Defender for cloud Apps](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
   - [Microsoft Azure Active Directory (Entra Id)](https://github.com/AwadShaikh/Defender-for-cloud-lab) 
