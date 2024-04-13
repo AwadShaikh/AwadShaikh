@@ -8,7 +8,7 @@
 - <b> Microsoft Defender Projects </b>
   - [Data Loss Prevention Using Microsoft Defender Lab](https://github.com/AwadShaikh/Microsoft-Defender-Labs)
   - [Attack Simulation using Microsoft Defender](https://github.com/AwadShaikh/Attack-Simulation-)
-  - [Mitigating risks using Microsoft Entra Id](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
+  - [Mitigating risks Microsoft Entra Id](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
   - [Security Posture Improvement using Microsoft XDR Lab](https://github.com/AwadShaikh/Security-Posture-Improvement-Lab)
   - [Microsoft Azure Active Directory](https://github.com/AwadShaikh/Microsoft-Azure-active-directory-/blob/main/README.md) 
 
