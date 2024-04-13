@@ -18,7 +18,7 @@
   - [Creating bootable USB Media for Windows 10 ](https://github.com/AwadShaikh/Bootable-USB-media-/blob/main/README.md)
   - [Windows 10 System Restore Point ](https://github.com/AwadShaikh/Microsoft-10-System-restore-point-/blob/main/README.md)
   - [Investigating system's reliability using windows reliability monitoring tool](https://github.com/AwadShaikh/Reliability-monitoring/blob/main/README.md)
-  - [Investigating system's errors, logs and warnings using windows event viewer tool ](https://github.com/AwadShaikh/Event-viewer-tool-lab)
+  - [Investigating system's errors, logs and warnings using windows event viewer tool ](https://github.com/AwadShaikh/Event-viewer-tool-lab/blob/main/README.md)
   - [Troubleshooting using Microsoft support and recovery assistance](https://github.com/AwadShaikh/Microsoft-support-and-recovery-assistance) 
   - [Troubleshooting using CRC(Component repair tool) ](https://github.com/AwadShaikh/CRC-lab-)
   - [Repairing a Non Bootable Computer Using The System File Checker SFC](https://github.com/AwadShaikh/SFC-lab/blob/main/README.md)
