@@ -26,7 +26,7 @@
   - [Device enrollment in intune ](https://github.com/AwadShaikh/Device-Enrollment-lab/blob/main/README.md)
   - [Assigning user to the group](https://github.com/AwadShaikh/Assigning-user-to-a-group/blob/main/README.md)
   - [Creating a Compliance Policy](https://github.com/AwadShaikh/Compliance-policy-/blob/main/README.md)
-  - [Investigating system's errors, logs and warnings using windows event viewer tool ]()
+  - [Creating a Compliance Profile ]()
   - [Troubleshooting using Microsoft support and recovery assistance]() 
   - [Troubleshooting using CRC(Component repair tool) ]()
   - [Repairing a Non Bootable Computer Using The System File Checker SFC]()
