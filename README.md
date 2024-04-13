@@ -11,7 +11,7 @@
   - [Mitigating risks Microsoft Entra Id](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
   - [Security Posture Improvement using Microsoft XDR Lab](https://github.com/AwadShaikh/Security-Posture-Improvement-Lab)
   - [Microsoft Azure Active Directory](https://github.com/AwadShaikh/Microsoft-Azure-active-directory-/blob/main/README.md)
-  - [Microsoft Defender for Cloud]()
+  - [Microsoft Defender for Cloud](https://github.com/AwadShaikh/Defender-for-Cloud/blob/main/README.md)
   - [Microsoft Azure Active Directory]() 
 
 - <b> Windows 10 Labs </b>
