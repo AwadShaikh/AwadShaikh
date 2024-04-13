@@ -15,7 +15,7 @@
   - [Microsoft EASM(Enhanced Automated Security Management)](https://github.com/AwadShaikh/EASM/blob/main/README.md) 
 
 - <b> Windows 10 Labs </b>
-  - [Creating bootable USB Media for Windows 10 ](https://github.com/AwadShaikh/Bootable-USB-media-)
+  - [Creating bootable USB Media for Windows 10 ](https://github.com/AwadShaikh/Bootable-USB-media-/blob/main/README.md)
   - [Windows 10 System Restore Point ](https://github.com/AwadShaikh/Microsoft-10-System-restore-point-/edit/main/README.md)
   - [Investigating system's reliability using windows reliability monitoring tool](https://github.com/AwadShaikh/Reliability-monitoring)
   - [Investigating system's errors, logs and warnings using windows event viewer tool ](https://github.com/AwadShaikh/Event-viewer-tool-lab)
