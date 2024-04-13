@@ -6,10 +6,10 @@
 <h2>👨‍💻 Cyber Security Projects: </h2>
 
 - <b> Microsoft Defender Projects </b>
-  - [Data Loss Prevention Using Microsoft Defender Lab](https://github.com/AwadShaikh/Microsoft-Defender-Labs)
+  - [Data Loss Prevention Using Microsoft Defender ](https://github.com/AwadShaikh/Microsoft-Defender-Labs)
   - [Attack Simulation using Microsoft Defender](https://github.com/AwadShaikh/Attack-Simulation-)
   - [Mitigating risks Microsoft Entra Id](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
-  - [Security Posture Improvement using Microsoft XDR Lab](https://github.com/AwadShaikh/Security-Posture-Improvement-Lab)
+  - [Security Posture Improvement using Microsoft XDR ](https://github.com/AwadShaikh/Security-Posture-Improvement-Lab)
   - [Microsoft Azure Active Directory](https://github.com/AwadShaikh/Microsoft-Azure-active-directory-/blob/main/README.md)
   - [Microsoft Defender for Cloud](https://github.com/AwadShaikh/Defender-for-Cloud/blob/main/README.md)
   - [Microsoft EASM(Enhanced Automated Security Management)](https://github.com/AwadShaikh/EASM/blob/main/README.md) 
