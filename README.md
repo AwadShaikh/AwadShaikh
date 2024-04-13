@@ -27,7 +27,7 @@
   - [Assigning user to the group](https://github.com/AwadShaikh/Assigning-user-to-a-group/blob/main/README.md)
   - [Creating a Compliance Policy](https://github.com/AwadShaikh/Compliance-policy-/blob/main/README.md)
   - [Creating a Compliance Profile ](https://github.com/AwadShaikh/compliance-profile-/blob/main/README.md)
-  - [Installing Apps on Iphone using Intune]() 
+  - [Installing Apps on Iphone using Intune](https://github.com/AwadShaikh/Apps-installation-/blob/main/README.md) 
   - [Troubleshooting using CRC(Component repair tool) ]()
   - [Repairing a Non Bootable Computer Using The System File Checker SFC]()
   - [Repairing a Non Bootable Computer - Corrupted BCD ]()
