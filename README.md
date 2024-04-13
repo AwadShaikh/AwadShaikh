@@ -12,8 +12,7 @@
   - [Security Posture Improvement using Microsoft XDR Lab](https://github.com/AwadShaikh/Security-Posture-Improvement-Lab)
   - [Microsoft Azure Active Directory (Entra Id)]() 
 
-
-  <b> Windows 10 Labs </b>
+- <b> Windows 10 Labs </b>
   - [Creating bootable USB Media for Windows 10 ](https://github.com/AwadShaikh/Bootable-USB-media-)
   - [Windows 10 System Restore Point ](https://github.com/AwadShaikh/Microsoft-10-System-restore-point-)
   - [Investigating system's reliability using windows reliability monitoring tool](https://github.com/AwadShaikh/Reliability-monitoring)
@@ -22,9 +21,8 @@
   - [Troubleshooting using CRC(Component repair tool) ](https://github.com/AwadShaikh/CRC-lab-)
   - [Repairing a Non Bootable Computer Using The System File Checker SFC](https://github.com/AwadShaikh/SFC-lab/blob/main/README.md)
   - [Repairing a Non Bootable Computer - Corrupted BCD ](https://github.com/AwadShaikh/Defender-for-cloud-lab)
- 
-  - 
-  <b> MDM( Mobile Device Management using Microsoft intune) </b>
+
+- <b> MDM( Mobile Device Management using Microsoft intune) </b>
   - [Creating bootable USB Media for Windows 10 ]()
   - [Windows 10 System Restore Point ]()
   - [Investigating system's reliability using windows reliability monitoring tool]()
@@ -34,12 +32,7 @@
   - [Repairing a Non Bootable Computer Using The System File Checker SFC]()
   - [Repairing a Non Bootable Computer - Corrupted BCD ]()
 
-
-
-
-
-
-<h2>📺 Popular YouTube Videos</h2>
+  <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
