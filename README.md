@@ -23,7 +23,7 @@
   - [Repairing a Non Bootable Computer - Corrupted BCD ](https://github.com/AwadShaikh/Defender-for-cloud-lab)
 
 - <b> MDM( Mobile Device Management using Microsoft intune) </b>
-  - [Creating bootable USB Media for Windows 10 ]()
+  - [Device enrollment in intune ](https://github.com/AwadShaikh/Device-Enrollment-lab)
   - [Windows 10 System Restore Point ]()
   - [Investigating system's reliability using windows reliability monitoring tool]()
   - [Investigating system's errors, logs and warnings using windows event viewer tool ]()
