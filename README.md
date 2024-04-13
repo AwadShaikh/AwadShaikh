@@ -46,6 +46,6 @@
   - [Is WGU Legit?]()
 
    <h2> 🤳 Connect with me:</h2>
-       Awadbashrahil@gmail.com
+          Awadbashrahil@gmail.com
 
 
