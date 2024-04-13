@@ -25,7 +25,7 @@
 - <b> MDM( Mobile Device Management using Microsoft intune) </b>
   - [Device enrollment in intune ](https://github.com/AwadShaikh/Device-Enrollment-lab/blob/main/README.md)
   - [Assigning user to the group](https://github.com/AwadShaikh/Assigning-user-to-a-group/blob/main/README.md)
-  - [Creating a Compliance Policy]()
+  - [Creating a Compliance Policy](https://github.com/AwadShaikh/Compliance-policy-/edit/main/README.md)
   - [Investigating system's errors, logs and warnings using windows event viewer tool ]()
   - [Troubleshooting using Microsoft support and recovery assistance]() 
   - [Troubleshooting using CRC(Component repair tool) ]()
