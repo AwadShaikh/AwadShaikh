@@ -10,7 +10,9 @@
   - [Attack Simulation using Microsoft Defender](https://github.com/AwadShaikh/Attack-Simulation-)
   - [Mitigating risks Microsoft Entra Id](https://github.com/AwadShaikh/Microsoft-Entra-Id-Lab)
   - [Security Posture Improvement using Microsoft XDR Lab](https://github.com/AwadShaikh/Security-Posture-Improvement-Lab)
-  - [Microsoft Azure Active Directory](https://github.com/AwadShaikh/Microsoft-Azure-active-directory-/blob/main/README.md) 
+  - [Microsoft Azure Active Directory](https://github.com/AwadShaikh/Microsoft-Azure-active-directory-/blob/main/README.md)
+  - [Microsoft Defender for Cloud]()
+  - [Microsoft Azure Active Directory]() 
 
 - <b> Windows 10 Labs </b>
   - [Creating bootable USB Media for Windows 10 ](https://github.com/AwadShaikh/Bootable-USB-media-)
