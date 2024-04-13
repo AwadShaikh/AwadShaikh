@@ -22,7 +22,23 @@
   - [Troubleshooting using CRC(Component repair tool) ](https://github.com/AwadShaikh/CRC-lab-)
   - [Repairing a Non Bootable Computer Using The System File Checker SFC](https://github.com/AwadShaikh/SFC-lab/blob/main/README.md)
   - [Repairing a Non Bootable Computer - Corrupted BCD ](https://github.com/AwadShaikh/Defender-for-cloud-lab)
-  -   
+ 
+  - 
+  <b> MDM( Mobile Device Management using Microsoft intune) </b>
+  - [Creating bootable USB Media for Windows 10 ]()
+  - [Windows 10 System Restore Point ]()
+  - [Investigating system's reliability using windows reliability monitoring tool]()
+  - [Investigating system's errors, logs and warnings using windows event viewer tool ]()
+  - [Troubleshooting using Microsoft support and recovery assistance]() 
+  - [Troubleshooting using CRC(Component repair tool) ]()
+  - [Repairing a Non Bootable Computer Using The System File Checker SFC]()
+  - [Repairing a Non Bootable Computer - Corrupted BCD ]()
+
+
+
+
+
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
