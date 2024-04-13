@@ -22,7 +22,7 @@
   - [Troubleshooting using Microsoft support and recovery assistance](https://github.com/AwadShaikh/Microsoft-support-and-recovery-assistance/blob/main/README.md) 
   - [Troubleshooting using CRC(Component repair tool) ](https://github.com/AwadShaikh/CRC-lab-/blob/main/README.md)
   - [Repairing a Non Bootable Computer Using The System File Checker SFC](https://github.com/AwadShaikh/SFC-lab/blob/main/README.md)
-  - [Repairing a Non Bootable Computer - Corrupted BCD ](https://github.com/AwadShaikh/Defender-for-cloud-lab)
+  - [Repairing a Non Bootable Computer - Corrupted BCD ](https://github.com/AwadShaikh/BCD-file-recovery-lab/blob/main/README.md)
 
 - <b> MDM( Mobile Device Management using Microsoft intune) </b>
   - [Device enrollment in intune ](https://github.com/AwadShaikh/Device-Enrollment-lab/blob/main/README.md)
