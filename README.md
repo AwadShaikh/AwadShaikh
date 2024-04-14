@@ -20,7 +20,7 @@
 - <b> Microsoft Active Directory Domain Services Labs </b>
   - [User Account management](https://github.com/AwadShaikh/AD-DS-user-account-management-/blob/main/README.md)
   - [Group Management](https://github.com/AwadShaikh/Group-Management-/blob/main/README.md)
-  - [Computer Account management]()
+  - [Computer Account management](https://github.com/AwadShaikh/OU/blob/main/README.md)
   - [Organizational Unit (OU) management]()
   - [Permission and Access]()
   - [Group Policy Management]()
