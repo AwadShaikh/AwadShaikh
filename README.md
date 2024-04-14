@@ -21,7 +21,7 @@
   - [User Account management](https://github.com/AwadShaikh/AD-DS-user-account-management-/blob/main/README.md)
   - [Group Management](https://github.com/AwadShaikh/Group-Management-/blob/main/README.md)
   - [Organizational Unit (OU) management](https://github.com/AwadShaikh/OU/blob/main/README.md)
-  - [Group Policy Management]()
+  - [Group Policy Management](https://github.com/AwadShaikh/GPO-/blob/main/README.md)
 
 - <b> Windows 10 Labs </b>
   - [Creating bootable USB Media for Windows 10 ](https://github.com/AwadShaikh/Bootable-USB-media-/blob/main/README.md)
