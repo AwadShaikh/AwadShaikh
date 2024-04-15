@@ -34,7 +34,7 @@
   - [Repairing a Non Bootable Computer - Corrupted BCD ](https://github.com/AwadShaikh/BCD-file-recovery-lab/blob/main/README.md)
 
 - <b> MDM( Mobile Device Management using Microsoft intune) </b>
-  - [Device enrollment in intune ](https://github.com/AwadShaikh/Device-Enrollment-lab/edit/main/README.md)
+  - [Device enrollment in intune ](https://github.com/AwadShaikh/Device-Enrollment-lab/blob/main/README.md)
   - [Assigning user to the group](https://github.com/AwadShaikh/Assigning-user-to-a-group/blob/main/README.md)
   - [Creating a Compliance Policy](https://github.com/AwadShaikh/Compliance-policy-/blob/main/README.md)
   - [Creating a Compliance Profile ](https://github.com/AwadShaikh/compliance-profile-/blob/main/README.md)
