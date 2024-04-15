@@ -46,10 +46,8 @@
    <h2>In Progress section </h2>
 
   - [How to get into Cybersecurity Starting From Zero]()
-  - [A Day in the Life of a Cybersecurity Anayst]()
   - [How to Create a KeyLogger (C#)]()
   - [Ransomware Demonstration (C#)]()
-  - [Is WGU Legit?]()
 
    <h2> 🤳 Connect with me:</h2>
           Awadbashrahil@gmail.com
