@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Awad! <br/><a href="https://github.com/j">IT Support Professional</a> <a href="https://www.linkedin.com/in/j/"> and a Cybersecurity Student </a> <a href="https://www.youtube.com/c/jor>YouTuber"</a></h1>
+<h1>Hi, I'm Awad! <br/><a href="https://github.com/j"></a> <a href="https://www.linkedin.com/in/j/">  Cybersecurity Student </a> <a href="https://www.youtube.com/c/jor>YouTuber"</a></h1>
 
 <img align="center" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
